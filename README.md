@@ -23,26 +23,26 @@ https://docs.google.com/presentation/d/e/2PACX-1vR4IMSXVc2JIGRcEj5GjPuiJ0zzAmLj1
 - [GitHub](https://github.com/tvvmvn/first-project)
 
 ### React Tutorials
-> [WEBSITE](https://tvvmvn.github.io/react-basic)
+- [WEBSITE](https://tvvmvn.github.io/react-basic)
 - [GitHub](https://github.com/tvvmvn/react-basic)
 
 ### TodoApp
-> [WEBSITE](https://tvvmvn.github.io/todo-app)
+- [WEBSITE](https://tvvmvn.github.io/todo-app)
 - [GitHub](https://github.com/tvvmvn/todo-app)
 
 ### MyTube
-> [VIEW](https://tvvmvn.github.io/mytube)
+- [VIEW](https://tvvmvn.github.io/mytube)
 
 ### Instagram Clone Master
 - [GitHub](https://github.com/tvvmvn/instagram-clone-master)
 
 ### Public Data App
-> [VIEW](https://tvvmvn.github.io/public-data-app)
+- [VIEW](https://tvvmvn.github.io/public-data-app)
 - [Source](https://github.com/tvvmvn/public-data-app)
 
 ## 참조 사이트 
-1. W3Schools.com
-2. Google.com
+- W3Schools.com
+- Google.com
 
 ## 문의 메일
 nigrojin@naver.com
