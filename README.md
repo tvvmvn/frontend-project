@@ -1,9 +1,9 @@
 # Front-End Class 📱🚀
 
-### Presentation
+## Presentation
 https://docs.google.com/presentation/d/e/2PACX-1vR4IMSXVc2JIGRcEj5GjPuiJ0zzAmLj1gBtkLZ9VDiuFGLqqEAqwk3QRiFIXn3sqWoD5GOVi4gfUCRk/pub?start=false&loop=false&delayms=60000
 
-### 커리큘럼
+## 커리큘럼
 1. HTML/CSS 이론 및 예제
 2. JavaScript 이론 및 예제
 3. 예제 및 포트폴리오 
@@ -11,38 +11,38 @@ https://docs.google.com/presentation/d/e/2PACX-1vR4IMSXVc2JIGRcEj5GjPuiJ0zzAmLj1
 5. 인스타그램 클론앱 만들기 - 백엔드 
 6. 인스타그램 클론앱 만들기 - 프론트엔드
 
-## FrontEnd 
-> [WEBSITE](https://tvvmvn.github.io/front-end)
+## 강의 자료
+### FrontEnd 
+- [WEBSITE](https://tvvmvn.github.io/front-end)
 - [GitHub](https://github.com/tvvmvn/front-end)
 
-## JavaScript
+### JavaScript
 - [GitHub](https://github.com/tvvmvn/JavaScript)
 
-## First Project
+### First Project
 - [GitHub](https://github.com/tvvmvn/first-project)
 
-## React Tutorials
+### React Tutorials
 > [WEBSITE](https://tvvmvn.github.io/react-basic)
 - [GitHub](https://github.com/tvvmvn/react-basic)
 
-## TodoApp
+### TodoApp
 > [WEBSITE](https://tvvmvn.github.io/todo-app)
 - [GitHub](https://github.com/tvvmvn/todo-app)
 
-## MyTube
+### MyTube
 > [VIEW](https://tvvmvn.github.io/mytube)
 
-## Instagram Clone Master
+### Instagram Clone Master
 - [GitHub](https://github.com/tvvmvn/instagram-clone-master)
 
-## Public Data App
+### Public Data App
 > [VIEW](https://tvvmvn.github.io/public-data-app)
 - [Source](https://github.com/tvvmvn/public-data-app)
 
-### 참조 사이트 
+## 참조 사이트 
 1. W3Schools.com
 2. Google.com
 
-
-### 문의 메일
+## 문의 메일
 nigrojin@naver.com
