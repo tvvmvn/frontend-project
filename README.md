@@ -48,8 +48,9 @@ https://docs.google.com/presentation/d/e/2PACX-1vR4IMSXVc2JIGRcEj5GjPuiJ0zzAmLj1
 - [FroMoi](https://ming-sitecopy1.netlify.app) - 김승민 수강생 👑
 - [컨버스](https://conversejjab.netlify.app) - 양나현 수강생 👑
 2. 공공데이터 앱
-- [보행노인사고다발구역](https://parksy741.github.io/parksy) 👑
+- [보행노인 사고다발구역](https://parksy741.github.io/parksy) 👑
 - [지역별 강력범죄 발생통계](https://crimesite.netlify.app) 👑
+- [해수욕장 정보조회](https://baeminji95.github.io/PongDang) 👑
 - [자전거 사고조회](https://yeji-ux.github.io/public-data-app/) 👑
 
 ## 참조 사이트 
