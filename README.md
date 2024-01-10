@@ -4,12 +4,18 @@
 https://docs.google.com/presentation/d/e/2PACX-1vR4IMSXVc2JIGRcEj5GjPuiJ0zzAmLj1gBtkLZ9VDiuFGLqqEAqwk3QRiFIXn3sqWoD5GOVi4gfUCRk/pub?start=false&loop=false&delayms=60000
 
 ## 커리큘럼
-1. HTML/CSS 이론 및 예제
-2. JavaScript 이론 및 예제
-3. 예제 및 포트폴리오 
-4. React (자바스크립트 라이브러리)
-5. 인스타그램 클론앱 만들기 - 백엔드 
-6. 인스타그램 클론앱 만들기 - 프론트엔드
+1. 프론트엔드 1 
+- HTML / CSS / JavaScript 이론 및 예제
+2. 프론트엔드 2
+- JavaScript 이론 및 예제
+- 포트폴리오 만들기
+3. 프론트엔드 3
+- React (자바스크립트 라이브러리) 이론 및 예제
+- 인스타그램 클론앱 백엔드 개발
+4. 프론트엔드 4
+- 인스타그램 클론앱 프론트엔드 개발
+- 공공데이터 앱 포트폴리오 만들기
+
 
 ## 강의 자료
 ### FrontEnd 
