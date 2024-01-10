@@ -40,9 +40,6 @@ https://docs.google.com/presentation/d/e/2PACX-1vR4IMSXVc2JIGRcEj5GjPuiJ0zzAmLj1
 - [VIEW](https://tvvmvn.github.io/public-data-app)
 - [Source](https://github.com/tvvmvn/public-data-app)
 
-## 수강생 포트폴리오
-준비중
-
 ## 참조 사이트 
 - W3Schools.com
 - Google.com
