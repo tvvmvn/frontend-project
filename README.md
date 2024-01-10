@@ -18,31 +18,31 @@ https://docs.google.com/presentation/d/e/2PACX-1vR4IMSXVc2JIGRcEj5GjPuiJ0zzAmLj1
 
 
 ### 강의 자료
-#### FrontEnd 
+1. FrontEnd 
 - [WEBSITE](https://tvvmvn.github.io/front-end)
 - [GitHub](https://github.com/tvvmvn/front-end)
 
-#### JavaScript
+2. JavaScript
 - [GitHub](https://github.com/tvvmvn/JavaScript)
 
-#### First Project
+3. First Project
 - [GitHub](https://github.com/tvvmvn/first-project)
 
-#### React Tutorials
+4. React Tutorials
 - [WEBSITE](https://tvvmvn.github.io/react-basic)
 - [GitHub](https://github.com/tvvmvn/react-basic)
 
-#### TodoApp
+5. TodoApp
 - [WEBSITE](https://tvvmvn.github.io/todo-app)
 - [GitHub](https://github.com/tvvmvn/todo-app)
 
-#### MyTube
+6. MyTube
 - [VIEW](https://tvvmvn.github.io/mytube)
 
-#### Instagram Clone Master
+7. Instagram Clone Master
 - [GitHub](https://github.com/tvvmvn/instagram-clone-master)
 
-#### Public Data App
+8. Public Data App
 - [VIEW](https://tvvmvn.github.io/public-data-app)
 - [Source](https://github.com/tvvmvn/public-data-app)
 
